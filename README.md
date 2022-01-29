@@ -1,4 +1,3 @@
 # WebIcp1
 
-
-lopdefefefef
+This ICP is regarding the usage of Github tool and a sample html 
